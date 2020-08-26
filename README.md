@@ -2,8 +2,8 @@
 
 SWagger UI
 
-curl -XGET -s localhost/swagger-ui.html
-curl -XGET -s localhost/v2/api-docs
+    curl -XGET -s localhost/swagger-ui.html
+    curl -XGET -s localhost/v2/api-docs
 
 Spring Health check
 
