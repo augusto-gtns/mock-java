@@ -1,15 +1,15 @@
-# Mock Application
+# Mock Rest API
+
+Rest API with OAuth2 authentication
 
 SWagger UI
 
-    curl -XGET -s localhost/swagger-ui.html
-    curl -XGET -s localhost/v2/api-docs
+    localhost/swagger-ui.html
 
 Spring Health check
 
-curl -XGET -s localhost/actuator/health
+    localhost/actuator/health
 
-### Maven
 
 Run application
 
