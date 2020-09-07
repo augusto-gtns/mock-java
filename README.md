@@ -1,6 +1,16 @@
-# Mock Rest API
+# Rest API 
 
-Rest API with OAuth2 authentication
+- Maven project
+- Spring Boot, Spring Data, Spring Web, Spring Security
+- OAuth2 authentication
+- Swagger
+- MySQL
+- Log4j
+- Lombock
+
+See `application.properties` for general configuration
+
+---
 
 SWagger UI
 
