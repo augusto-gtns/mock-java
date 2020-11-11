@@ -1,7 +1,7 @@
 # Rest API 
 
 - Maven project
-- Spring Boot, Spring Data, Spring Web, Spring Security
+- Spring Boot, Spring Data, Spring MVC, Spring Security
 - OAuth2 authentication
 - Swagger
 - MySQL
